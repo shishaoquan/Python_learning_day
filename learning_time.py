@@ -11,7 +11,7 @@ learning_time -
 
 
 print('2022年5月10日16:16:07, 学习时长为： 02:01:01')
-
+print('The next learning!')
 
 
 
