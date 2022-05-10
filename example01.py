@@ -12,3 +12,4 @@ example01 -
 list1 = ['小明', '小亮', '小红']
 for i in list1:
     print(i)
+print()
