@@ -34,7 +34,7 @@ else:
     print(f'Your score is {score}')
 
 
-
+print()
 
 
 
